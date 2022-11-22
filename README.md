@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saurav saha
 - 👀 I’m interested in ...web Devlopment
-- 🌱 I’m currently learning ... Fornt end
+- 🌱 I’m currently learning ... Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
